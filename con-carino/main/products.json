@@ -18,5 +18,25 @@
     ],
     "precio": 180.00,
     "tipo": "Tazas"
+  },
+  {
+    "id": 3,
+    "nombre": "Granola Real (500 g)",
+    "descripcion": "Compra tu granola ya sea para botanear o incluirla en tus alimentos preferidos.",
+    "images": [
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-1.jpeg"
+    ],
+    "precio": 97.00,
+    "tipo": "Dulceria"
+  },
+  {
+    "id": 4,
+    "nombre": "Taza Disney con Cacahuates surtidos",
+    "descripcion": "Adquiere tu taza con figura del pato Donald que contiene cacahuates ya incluidos.",
+    "images": [
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
+    ],
+    "precio": 180.00,
+    "tipo": "Tazas"
   }
 ]
