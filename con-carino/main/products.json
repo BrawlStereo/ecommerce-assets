@@ -1,26 +1,36 @@
 [
   {
     "id": 1,
-    "nombre": "Granola Real (500 g)",
-    "descripcion": "Compra tu granola ya sea para botanear o incluirla en tus alimentos preferidos.",
+    "nombre": "Peluche de conejito con M&Ms",
+    "descripcion": "Pide tu regalo perfecto con un peluche con mucho amor y dulces para estas fechas.",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-1.jpeg"
     ],
     "precio": 97.00,
-    "tipo": "Dulceria"
+    "tipo": "Peluches"
   },
   {
     "id": 2,
-    "nombre": "Taza Disney con Cacahuates surtidos",
-    "descripcion": "Adquiere tu taza con figura del pato Donald que contiene cacahuates ya incluidos.",
+    "nombre": "Taza de Gatos con Dulces",
+    "descripcion": "Para los fans de los gatos les encantará esta tazo junto con chocolates variados.",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
     ],
-    "precio": 180.00,
+    "precio": 145.00,
     "tipo": "Tazas"
   },
   {
     "id": 3,
+    "nombre": "Taza de Mickey con Dulces",
+    "descripcion": "Adquiere tu taza con figura del pato Donald que contiene cacahuates ya incluidos.",
+    "images": [
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
+    ],
+    "precio": 190.00,
+    "tipo": "Tazas"
+  },
+  {
+    "id": 4,
     "nombre": "Granola Real (500 g)",
     "descripcion": "Compra tu granola ya sea para botanear o incluirla en tus alimentos preferidos.",
     "images": [
@@ -30,8 +40,8 @@
     "tipo": "Dulceria"
   },
   {
-    "id": 4,
-    "nombre": "Taza Disney con Cacahuates surtidos",
+    "id": 5,
+    "nombre": "Taza Disney con Cacahuates",
     "descripcion": "Adquiere tu taza con figura del pato Donald que contiene cacahuates ya incluidos.",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
