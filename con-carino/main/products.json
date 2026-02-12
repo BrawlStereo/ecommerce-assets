@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Taza de Amor con M%Ms y Bolsa",
+    "nombre": "Taza de Amor con M&Ms y Bolsa",
     "descripcion": "El mejor regalo que puedes dar con un empaque hecho con mucho cariño.",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-1.jpeg"
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "nombre": "Taza de Gatos con Dulces",
-    "descripcion": "Para los fans de los gatos les encantará esta tazo junto con chocolates variados.",
+    "descripcion": "Para los fans de los gatos les encantará esta taza junto con chocolates variados.",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-3.jpeg"
     ],
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "nombre": "Taza Disney con Dulces",
-    "descripcion": "Para aquellos aficionados al mundo de Disney, este regalo es perfecto acompañado de chocolates variados.",
+    "descripcion": "Para aquellos aficionados al mundo de Disney, este regalo es perfecto acompañado de chocolates variados. Checa todos los diseños disponibles y pide tu favorito",
     "images": [
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-4-1.jpeg",
       "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-4-2.jpeg",
