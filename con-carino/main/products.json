@@ -4,7 +4,7 @@
     "nombre": "Peluche de conejito con M&Ms",
     "descripcion": "Pide tu regalo perfecto con un peluche con mucho amor y dulces para estas fechas.",
     "images": [
-      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-1.jpeg"
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-3.jpeg"
     ],
     "precio": 97.00,
     "tipo": "Peluches"
@@ -14,17 +14,19 @@
     "nombre": "Taza de Gatos con Dulces",
     "descripcion": "Para los fans de los gatos les encantará esta tazo junto con chocolates variados.",
     "images": [
-      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-4.jpeg"
     ],
     "precio": 145.00,
     "tipo": "Tazas"
   },
   {
     "id": 3,
-    "nombre": "Taza de Mickey con Dulces",
-    "descripcion": "Adquiere tu taza con figura del pato Donald que contiene cacahuates ya incluidos.",
+    "nombre": "Taza Disney con Dulces",
+    "descripcion": "Para aquellos aficionados al mundo de Disney, este regalo es perfecto acompañado de chocolates variados.",
     "images": [
-      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-2.jpeg"
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-5.jpeg",
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-5.1.jpeg",
+      "https://raw.githubusercontent.com/BrawlStereo/ecommerce-assets/main/con-carino/images/product-5.2.jpeg"
     ],
     "precio": 190.00,
     "tipo": "Tazas"
